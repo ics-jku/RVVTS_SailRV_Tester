@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+external_tools/
+results/
+run_test/
+report/
